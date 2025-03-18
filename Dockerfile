@@ -1,4 +1,4 @@
-FROM debian:bookworm-20250224
+FROM debian:bookworm-20250317
 
 RUN apt-get update && apt-get install -y \
     fortune \
